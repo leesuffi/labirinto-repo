@@ -1,5 +1,5 @@
 # labirinto-repo
-simulaçaõ do labirinto que criamos
+simulação do labirinto que criamos
 # Labirinto em JavaScript
 ## SENAI 2022
 
